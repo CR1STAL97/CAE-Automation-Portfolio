@@ -34,17 +34,6 @@ project1_spall_fracture/
 ├── spall_fracture_system.py            # Основной класс системы
 ├── examples/
 │   ├── basic_example.py                # Простой пример использования
-│   ├── parametric_study.py             # Параметрическое исследование
-│   └── batch_processing.py             # Пакетная обработка
-├── tests/
-│   ├── test_spall_system.py            # Тесты системы
-│   └── test_validation.py              # Тесты валидации
-├── data/
-│   ├── sample_geometry.stp             # Пример геометрии
-│   └── material_properties.json        # Свойства материалов
-├── results/
-│   ├── velocity_analysis/              # Результаты анализа скоростей
-│   └── reports/                        # Автоматические отчеты
 └── requirements.txt                    # Зависимости Python
 ```
 
