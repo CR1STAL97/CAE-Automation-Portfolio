@@ -112,7 +112,7 @@
 
 **Email**: [vvlouka8@gmail.com]
 **Telegram**: [@cr1stall97]
-**GitHub**: [ваш github]
+**GitHub**: [[ваш github](https://github.com/CR1STAL97)]
 
 Готов обсудить ваш проект и предложить оптимальное решение!
 С уважением Луцек Василий 
