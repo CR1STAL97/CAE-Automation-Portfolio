@@ -1,0 +1,51 @@
+# Automated Post-Processing System - Requirements
+# Зависимости для системы автоматической постобработки
+
+# Основные зависимости
+numpy>=1.21.0
+scipy>=1.7.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# Abaqus ODB API (устанавливается отдельно)
+# abaqus-odb-api
+
+# Интерактивные графики
+plotly>=5.0.0
+dash>=2.0.0
+
+# Обработка данных
+h5py>=3.1.0
+tables>=3.6.0
+openpyxl>=3.0.0
+
+# Визуализация
+seaborn>=0.11.0
+bokeh>=2.4.0
+
+# HTML отчеты
+jinja2>=3.0.0
+weasyprint>=54.0
+markdown>=3.3.0
+
+# Анимации
+imageio>=2.9.0
+pillow>=8.3.0
+
+# Тестирование
+pytest>=6.0.0
+pytest-cov>=2.12.0
+pytest-mock>=3.6.0
+
+# Документация
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
+
+# Утилиты
+tqdm>=4.62.0
+colorama>=0.4.4
+click>=8.0.0
+
+# Производительность
+numba>=0.56.0
+joblib>=1.1.0
