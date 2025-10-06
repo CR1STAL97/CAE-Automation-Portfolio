@@ -224,6 +224,3 @@ python -m pytest --cov=spall_fracture_system tests/
 - **GitHub**: https://github.com/CR1STAL97
 - **Telegram**: @cr1stall97
 
----
-
-*Создано: 2025 | Автор: CAE Automation Specialist*
