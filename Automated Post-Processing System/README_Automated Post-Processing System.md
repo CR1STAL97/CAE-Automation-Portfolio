@@ -254,14 +254,8 @@ python -m pytest --cov=postprocessing_system tests/
 - Troubleshooting guide
 - FAQ
 
-### Контакты:
-- **Email**: vvlouka8@gmail.com
-- **GitHub**: https://github.com/CR1STAL97
-- **Telegram**: @cr1stall97
 
----
 
-*Создано: 2025 | Автор: CAE Automation Specialist*
 
 
 
